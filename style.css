@@ -1,0 +1,9 @@
+*, html, body{
+    list-style: none;
+    background-color: #272727;
+    font-family: "Poppins",sans-serif;
+    color:#ffff;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
